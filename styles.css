@@ -882,4 +882,8 @@ body {
   .projects div {
     width: 100%;
   }
+
+  .hero .left {
+    padding-left: 20px;
+  }
 }
